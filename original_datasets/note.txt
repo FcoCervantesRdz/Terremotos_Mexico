@@ -1,0 +1,7 @@
+"Fecha y hora local en tiempo del centro de Mexico. Coordenadas geograficas (latitud y longitud) del epicentro en grados decimales. Profundidad en kilometros."
+"La localizacion es solo una referencia a una localidad importante en cuanto a numero de habitantes y cercana al epicentro."
+"Los registros con estatus verificado son los calculados y publicados de manera oportuna por al menos un analista de sismogramas."
+"Los registros obtienen estatus revisado cuando se realiza un analisis, de ser posible, con mas y mejores datos para el calculo de parametros y cuyo tiempo de publicacion es variable."
+"Esta informacion puede ser reproducida con fines no lucrativos siempre y cuando se mencione como fuente al Servicio Sismologico Nacional. De otra forma, requiere permiso previo por escrito de la institucion."
+"Consulta nuestro Aviso Legal y Terminos de Uso en: www.ssn.unam.mx/aviso-legal"
+"www.ssn.unam.mx | contacto@sismologico.unam.mx | 5622 2222 ext. 38706 (reportes de sismicidad), 38700 y 38701 (area administrativa)."
